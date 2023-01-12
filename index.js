@@ -21,3 +21,4 @@ function fizzBuzz() {
   console.log(array);
 }
 fizzBuzz();
+//
