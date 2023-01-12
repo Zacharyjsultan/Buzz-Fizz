@@ -1,4 +1,6 @@
-# Buzz-Fizz
+
+BuzzFizz
+
 
 adv-fullstack-interview-battery
 Fizz Buzz
